@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - KingdomZone
+  - DesertZone
+  - King
+  - Robber
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Players
+  - Water
+  - UI
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1571983997
+    locked: 0
+  - name: Characters
+    uniqueID: 1631174575
+    locked: 0
+  m_RenderingLayers:
+  - Default
